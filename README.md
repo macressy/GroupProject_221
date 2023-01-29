@@ -1,1 +1,1 @@
-### Repository for final project - 221|'23
+### Repository for final project - 221 | '23
