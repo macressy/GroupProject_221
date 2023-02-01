@@ -3,17 +3,17 @@
 _______________________________________________________________________________________
 ### Research Question:
 
-The United States (US) is a country of systemic inequality that particularly manifests between racial identities. Communities of color have been subjected to and still experience exclusion, erasure, and negligence by US institutions. We will be investigating how these disparities geospatially persist in the Greater Los Angeles area. How can structural racism be quantified and visualized across Los Angeles neighborhoods through a multi-factor index?
+The United States (US) is a country of stark systemic inequality between racial groups. Communities of color have been subjected to and still experience exclusion, erasure, and negligence by US institutions. We will be investigating how these disparities geospatially persist in the Greater Los Angeles area. How can structural racism be quantified and visualized across Los Angeles neighborhoods through a multi-factor index?
 
 ### Why? 
 
 "Racism, specifically, is the state-sanctioned or extralegal production and exploitation of group-differentiated vulnerability to premature death"- (p.28 _Golden Gulag Prisons, Surplus, Crisis, and Opposition in Globalizing_ , Ruth Wilson Gilmore)
 
-We will measure vulnerability, as defined by Gilmore, across various communities that inhabit Los Angeles. Generally, the vulnerability that structural racism creates, and the restitution it necessitates, is accepted in the American political discourse. However, there remains a powerful contingent of media companies, politicians, and institutions that question this inequitable reality. Such denial functions as a structural gaslighting to the narratives of communities of color, especially black folks given the legacy of enslavement and exclusionary policies. We will be quantifying the experience of vulnerability through a geospatial index of Los Angeles, focusing on the dimensions of housing, pollution, police violence, and economic development. This endeavor serves to (a) bolster the community narratives that are too easily dismissed and (b) create helpful metrics for targeted public policy. In a cultural moment when truth and lived-experience is being threatened, we believe our exploration and analysis to be of particular import. 
+We will measure vulnerability, as defined by Gilmore, across various communities that inhabit Los Angeles. Generally, the vulnerability that structural racism creates, and the restitution it necessitates, is accepted in the American political discourse. However, there remains a powerful contingent of media companies, politicians, and institutions that doubt our inequitable reality. Such denial functions as structural gaslighting to the narratives of communities of color, especially black folks given the persistent legacy of enslavement and exclusionary policies. We will be quantifying the experience of vulnerability through a geospatial index of Los Angeles, focusing on the dimensions of housing, pollution, police violence, and economic development. This endeavor serves to (a) bolster the community narratives that are too easily dismissed and (b) create helpful metrics for targeted public policy. In a cultural moment when truth and lived-experience is being invalidated, we believe our exploration and analysis to be of particular import. 
 
 ### Scope:
 
-We will primarily focus our analysis on the neighborhoods within the Greater Los Angeles area. Within these geographic parameters, we are specifically exploring how vulnerability is distributed through property ownership, environmental risk, state violence, economic development, and rent burden. This may ultimately shift and adjust based on the availability of data that we can ascertain and is of particular interest but our intention is to understand the discrepancies faced by various communities within the Greater Los Angeles Area.
+We will primarily focus our analysis on the neighborhoods within the Greater Los Angeles area. Within these geographic parameters, we are specifically exploring how vulnerability is distributed through property ownership, environmental risk, state violence, economic development, and rent burden. This may ultimately shift and adjust based on the availability of data that we can ascertain and is of particular interest but our intention is to understand the discrepancies between various communities within the Greater Los Angeles Area.
 
 ### Data Sources:
 
@@ -58,12 +58,12 @@ Housing:
 
 ### Analysis and Visualizations: 
 
-Our project will concatenate housing, transit, police, and environmental data sets, listed below, with the aim of presenting this information as a detailed choropleth map.  This map will assist in data interpretation and visualizing inequities between areas within Los Angeles County. 
+Our project will aggregate housing, transit, police, and environmental data sets, listed above, with the aim of presenting this information as a detailed choropleth map.  This map will assist in data interpretation and visualizing inequities between areas within Los Angeles. 
 
 Additionally, we will conduct a Hot Spot Analysis of this data, and our visualization, in order to project likelihood of encountering any/all of our inputs (housing issues, police violence, or environmental risks).  The inclusion of a Hot Spot Analysis directly addresses a guiding principle of this work; to demonstrate likelihood of vulnerability and exposure to a premature death.  
 
-Our group may attempt to Keyword scrape from property listing websites in order to bolster data regarding specific neighborhoods, issues of gentrification, etc. 
+Our group may attempt to Keyword scrape from property listing websites in order to capture biases / popular narratives about certain neighborhoods, issues of gentrification, etc. 
 
 ### Conclusion:  
 
-Our hypothesis and impetus for the project is that geospatial measurements, which aggregate structural racism in the US, can advance cultural discourse and refine public policy. For example, we hope to quantify the magnitude of difference between a black person’s exposure to violence, pollution, and rent burden, in comparison to a white person. We acknowledge the limitations of our research, as structural racism is, by definition, pervasive and cannot merely be quantified by a few inputs that form an index. As we adjust our index, we hope to highlight the inputs that have the most influence on vulnerability. Ultimately, visualizing and quantifying where rectification for harm is most needed.
+Our hypothesis and impetus for the project is that geospatial measurements can be aggregated to highlight structural racism, advancing cultural discourse and refining public policy. For example, we hope to quantify the magnitude of difference between a black person’s exposure to violence, pollution, and rent burden, in comparison to a white person. We acknowledge the limitations of our research, as structural racism is, by definition, pervasive and cannot merely be quantified by a few inputs that form an index. As we adjust our index, we hope to highlight the inputs that have the most influence on vulnerability. Ultimately, visualizing and quantifying where rectification is most needed.
