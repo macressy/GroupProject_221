@@ -1,4 +1,4 @@
- ## Visualizing and Indexing Structural Racism in Los Angeles - test1
+ ## Visualizing and Indexing Structural Racism in Los Angeles
 **Group Members:** John Parks, Joshua Claxton, Miles Cressy
 _______________________________________________________________________________________
 ### Research Question:
