@@ -2,9 +2,9 @@
 ## Proposal Update 2/5
 
 ## Roles
-**John Parks:** Lead Data Collector and Visualizer - identify and pull all viable data inputs, determine how they coalesce for visualization, and decide and execute the ultimate visualizing of our analysis. <br/>
-**Joshua Claxton:** Police Violence Specialist - inform (maybe geostatistical) analysis, to be done on arrests, police beats, and incidents of escalated violence or fatal encounters, focusing on  the correlation to property values <br/>
-**Miles Cressy:** Housing Specialist - clean and understand the data related to development, permitting, ownership vs. rent percentages, property values, etc. Conduct thorough analysis and provide visualizations of this housing data through the lens of race data. 
+**_John Parks_:** Lead Data Collector and Visualizer - identify and pull all viable data inputs, determine how they coalesce for visualization, and decide and execute the ultimate visualizing of our analysis. <br/>
+**_Joshua Claxton_:** Police Violence Specialist - inform (maybe geostatistical) analysis, to be done on arrests, police beats, and incidents of escalated violence or fatal encounters, focusing on  the correlation to property values <br/>
+**_Miles Cressy_:** Housing Specialist - clean and understand the data related to development, permitting, ownership vs. rent percentages, property values, etc. Conduct thorough analysis and provide visualizations of this housing data through the lens of race data. 
 
 ## Status update
 We are in frequent communication with a few scheduled calls per week and text group to share updates and coordinate. We are aligned in our approach to the project and have been mutually supportive in the vicissitudes that take place in any group project. Most importantly, we have all been very amenable to modifications and feedback as we refine our topic, scope, and analysis. The only limitation right now is ambition, perhaps. We have entertained a variety of ideas with great excitement and have had to back away and acknowledge constraints of time and our own skill level. 
