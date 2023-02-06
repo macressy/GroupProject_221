@@ -1,4 +1,4 @@
-# Visualizing and Indexing Structural Racism in Los Angeles 
+# Race as Vulnerability: The relationship between Policing and Property Values
 ## Proposal Update 2/5
 
 ## Roles
