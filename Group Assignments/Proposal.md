@@ -1,6 +1,62 @@
- ## Visualizing and Indexing Structural Racism in Los Angeles
-**Group Members:** John Parks, Joshua Claxton, Miles Cressy
+# Visualizing and Indexing Structural Racism in Los Angeles 
+## Proposal Update 2/5
+
+## Roles
+**John Parks:** Lead Data Collector and Visualizer - identify and pull all viable data inputs, determine how they coalesce for visualization, and decide and execute the ultimate visualizing of our analysis. <br/>
+**Joshua Claxton:** Police Violence Specialist - inform (maybe geostatistical) analysis, to be done on arrests, police beats, and incidents of escalated violence or fatal encounters, focusing on  the correlation to property values <br/>
+**Miles Cressy:** Housing Specialist - clean and understand the data related to development, permitting, ownership vs. rent percentages, property values, etc. Conduct thorough analysis and provide visualizations of this housing data through the lens of race data. 
+
+## Status update
+We are in frequent communication with a few scheduled calls per week and text group to share updates and coordinate. We are aligned in our approach to the project and have been mutually supportive in the vicissitudes that take place in any group project. Most importantly, we have all been very amenable to modifications and feedback as we refine our topic, scope, and analysis. The only limitation right now is ambition, perhaps. We have entertained a variety of ideas with great excitement and have had to back away and acknowledge constraints of time and our own skill level. 
+
+## Data update
+We have located a lot of housing data on HUD Open Data Center and HCD Website and are working through thoughts of tying the data together, experimenting with layering and merging data sets. We have an abundance of various kinds of police data that all contain geo coordinates, but are struggling to find data directly from the Sheriff’s department. We are continuing to dive into various forms of housing data and overlaying it with various race data but are biggest challenge is defining a throughline between housing and policing that is succinct and achievable. Ideas are constantly being iterated upon and we are still in the process of determining what data will be in our final project.
+
+A connection that is real and observed is the relationship between gentrification and policing but determining how to measure gentrification is an obstacle that we are currently facing. We had an idea to scrape Zillow listings, but that will require writing code that may be beyond our abilities at this stage. We also need to figure out how we will statistically analyze the relationship between policing and fluctuations in property values. We have discussed a hotspot analysis (based on the ArcGIS clustering toolset).   
+
+**Housing Links:** 
+
+[CDBG Block Areas](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::community-development-block-grant-grantee-areas/explore?location=6.227014%2C0.315564%2C1.44)
+
+[HUD Location Affordability Index](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::location-affordability-index-v-1-0/explore)
+
+[Low Poverty Index](https://hudgis-hud.opendata.arcgis.com/search?q=Location%20Affordability)
+
+[HCD Affordable Opportunity Sites](https://cadgs.maps.arcgis.com/apps/webappviewer/index.html?id=392e5e687e9041bb8f20e3acc5b211c7)
+
+[Mapping Inequality - Los Angeles](https://dsl.richmond.edu/panorama/redlining/#loc=10/34.015/-118.288&city=los-angeles-ca)
+
+**Policing Links:**
+
+[Fatal Encounters](https://fatalencounters.org/)
+
+[Mapping Police Violence](https://mappingpoliceviolence.org/)
+
+[Police Scorecard](https://policescorecard.org/ca)
+
+[Neighborhood Data for Social Change](https://la.myneighborhooddata.org/)
+
+[LA Public Safety](https://lahub.maps.arcgis.com/apps/instant/lookup/index.html?appid=e7405b41e6234e95bf4a63a4744c5923)
+
+## Concerns
+
+**Immediate:** 
+We have a lot of data to pour through, but I think we have done a great job of honing in on the scope and our “inputs”:; housing and police violence.
+
+**Major concerns:**
+- We have not established any temporal for our data parameters.
+- We do not have a specified geographic boundary (i.e. we have been referencing the greater Los Angeles area, but is that specific enough?).
+- We need to figure out how to define gentrification through data.
+
+**Minor concerns:**  
+- Time (quarter feels accelerated so it is hard to logistically plan and execute everything we hope to).
+- We have not defined the specifics of analysis (ie. geostatistics).
+
 _______________________________________________________________________________________
+
+## Visualizing and Indexing Structural Racism in Los Angeles
+**Group Members:** John Parks, Joshua Claxton, Miles Cressy
+
 ### Research Question:
 
 The United States (US) is a country of stark systemic inequality between racial groups. Communities of color have been subjected to and still experience exclusion, erasure, and negligence by US institutions. We will be investigating how these disparities geospatially persist in the Greater Los Angeles area. How can structural racism be quantified and visualized across Los Angeles neighborhoods through a multi-factor index?
