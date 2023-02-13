@@ -1,15 +1,62 @@
-# Race as Vulnerability: The relationship between Policing and Property Values
-## Proposal Update 2/5
+# Race as Vulnerability: The Role of Police in Gentrification
+## Proposal Update 13.02.2023
 
-## Roles
+### Research Question:
+
+To advance the [work of Ananya Roy](https://www.publicbooks.org/emergency-urbanism/#fn-39563-2) and [Brenden Beck](https://onlinelibrary.wiley.com/doi/abs/10.1111/cico.12473), we posit that gentrification is more than market-driven displacement. Dispossession and forced removal of working-class communities, particularly those of color, is a persistent feature of the American nationalist project. Nations are built on consolidation and assimilation in opposition to the racialized other. Home ownership, the middle class, hard-work, and citizenship are characteristics used to construct a shared American identity, without which we dissolve, as it were. Those existing outside the constructed identity, must be removed because they represent an insurgent threat to the national project. Gentrification is part of the through line of disappearing communities on the margins--it is among the machinations of racial banishment, carried out through state and private violence, control, and surveillance. Thus, we aim to geospatially demonstrate how economic redevelopment is co-constitutive of state-sanctioned removal. 
+
+**What is the role of police power in the process of gentrification? How do arrests and low level policing fluctuate with demographic and economic shifts in neighborhoods?**
+
+### Why? 
+
+"Racism, specifically, is the state-sanctioned or extralegal production and exploitation of group-differentiated vulnerability to premature death" 
+(Ruth Wilson Gilmore, [Golden Gulag Prisons, Surplus, Crisis, and Opposition in Globalizing, 1st ed. (University of California Press, 2007), 28.](https://cominsitu.files.wordpress.com/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf))
+
+Displacement is a spatial as well as economic and corporeal condition. When one’s community is gentrified, they lose their claim to space, and particularly property, which confers political power. They are pushed outside their home and made vulnerable to the streets. Vulnerability is compounded as low-level policing then haunts the displaced. We will be quantifying and visualizing communities’ vulnerability to gentrification and how police become agents of that displacement. This endeavor serves to build upon the methodology of the [Urban Displacement Project](https://www.urbandisplacement.org/maps/los-angeles-gentrification-and-displacement/) (UDP). 7 years ago, the project team at UCLA developed a neighborhood change database to identify areas that were vulnerable to gentrification. We will build upon their research and incorporate state violence into the analysis.
+
+### Scope:
+
+We will focus our analysis on the neighborhoods within the Greater Los Angeles area. Within these geographic parameters, we are specifically exploring vulnerability through the various inputs that lead to displacement like demographic shifts, building development, rent prices, and police presence. This may ultimately adjust as we come across new and more helpful data to build on our typology of gentrification-risk. Our intention is to understand the threat of removal faced by various communities within the Greater Los Angeles Area.
+
+### Data Sources:
+
+Gentrification (existing literature/research)
+- [Urban Displacement Project typology](https://www.urbandisplacement.org/) - classifies census tracts by their susceptibility to displacement. 
+
+Demographic/Housing:
+- [Renter-occupied Households by Race | Census Data (5-Year ACS, 2021)](https://www.socialexplorer.com/tables/ACS2021_5yr/R13285209) SE:A03001B. Race (Renter-Occupied Housing Units)
+- [Rent Burden | Census Data (5-Year ACS, 2021)](https://www.socialexplorer.com/tables/ACS2021_5yr/R13285211) - SE:A18002. Gross Rent as a Percentage of Household Income in the Past 12 Months (Dollars). 
+Extracting the number of households that pay 30% or more of their monthly income toward rent serves as an approximate measure of rent burden.
+
+Municipal/Administrative
+- [Build permits](https://data.lacity.org/A-Prosperous-City/Building-Permits/nbyu-2ha9) - The Department of Building and Safety issues permits for the construction, remodeling, and repair of buildings and structures in the City of Los Angeles.
+
+Police:
+- [Police Score Card](https://policescorecard.org/)  - Assigns numerical “score” based on combined data for use of force incidents, citizen complaints, complaint typology, and funding per citizen.
+- [LAPD Calls for Service](https://data.lacity.org/Public-Safety/LAPD-Calls-for-Service-2022/u6ri-98iw/data) - Data of calls to police based upon call typology and precincts.  
+- [Neighborhood Data for Social Change (USC)](https://map.myneighborhooddata.org/) - various data, such as “public safety” metrics like arrests, visualized and cataloged at the neighborhood level.
+
+### Analysis and Visualizations: 
+
+At this stage, our analysis and visualizations are divided into two parts. In Part A, we have gathered race, rent, and building permit data by census tract to inform our working definition of gentrification. We cleaned this census and city level data and created various bar graphs and choropleth maps of shifts in neighborhoods over time by percent change. In Part B, we have explored UDP’s existing neighborhood change typology and mapped it to city level arrest data in the form of bar graphs and choropleth maps. 
+
+In the next phase, the second half of the academic quarter, we plan to merge Part A and B into a single database, measurement system. We will also build out our own gentrification index with more inputs and develop a geo-statistical methodology for analysis and then visualization. 
+
+### Conclusion:  
+
+Geospatial measurements have the potential to effectively summarize structural violence, advance cultural discourse, and inform policy and community action. While we are striving to reach this potential, we acknowledge our limitations. We recognize the possible bounds of our research, as gentrification is defined and precipitated in myriad ways, some of which we may not be technically equipped to include in our analysis. As we continue to refine the project, we primarily aim to highlight a few of the spatial inputs that depict and quantify vulnerability to gentrification and simultaneously state violence. Additionally, we will try to predict the probability of forced displacement using spatial autocorrelation methods. Our work, like that of our entire cohort, can be part of a critical effort to preserve and empower communities. To quote [Sam Sinyangwe](https://twitter.com/samswey), a data scientist and co-founder of [Campaign Zero](https://campaignzero.org/) and [Mapping Police Violence](https://mappingpoliceviolence.org/), the work we’re all on a journey to do can save lives, and we should hold ourselves accountable to nothing less.
+
+## Status report 07.02.2023
+
+### Roles
 **_John Parks_:** Lead Data Collector and Visualizer - identify and pull all viable data inputs, determine how they coalesce for visualization, and decide and execute the ultimate visualizing of our analysis. <br/>
 **_Joshua Claxton_:** Police Violence Specialist - inform (maybe geostatistical) analysis, to be done on arrests, police beats, and incidents of escalated violence or fatal encounters, focusing on  the correlation to property values <br/>
 **_Miles Cressy_:** Housing Specialist - clean and understand the data related to development, permitting, ownership vs. rent percentages, property values, etc. Conduct thorough analysis and provide visualizations of this housing data through the lens of race data. 
 
-## Status update
+### Status update
 We are in frequent communication with a few scheduled calls per week and text group to share updates and coordinate. We are aligned in our approach to the project and have been mutually supportive in the vicissitudes that take place in any group project. Most importantly, we have all been very amenable to modifications and feedback as we refine our topic, scope, and analysis. The only limitation right now is ambition, perhaps. We have entertained a variety of ideas with great excitement and have had to back away and acknowledge constraints of time and our own skill level. 
 
-## Data update
+### Data update
 We have located a lot of housing data on HUD Open Data Center and HCD Website and are working through thoughts of tying the data together, experimenting with layering and merging data sets. We have an abundance of various kinds of police data that all contain geo coordinates, but are struggling to find data directly from the Sheriff’s department. We are continuing to dive into various forms of housing data and overlaying it with various race data but are biggest challenge is defining a throughline between housing and policing that is succinct and achievable. Ideas are constantly being iterated upon and we are still in the process of determining what data will be in our final project.
 
 A connection that is real and observed is the relationship between gentrification and policing but determining how to measure gentrification is an obstacle that we are currently facing. We had an idea to scrape Zillow listings, but that will require writing code that may be beyond our abilities at this stage. We also need to figure out how we will statistically analyze the relationship between policing and fluctuations in property values. We have discussed a hotspot analysis (based on the ArcGIS clustering toolset).   
@@ -38,7 +85,7 @@ A connection that is real and observed is the relationship between gentrificatio
 
 [LA Public Safety](https://lahub.maps.arcgis.com/apps/instant/lookup/index.html?appid=e7405b41e6234e95bf4a63a4744c5923)
 
-## Concerns
+### Concerns
 
 **Immediate:** 
 We have a lot of data to pour through, but I think we have done a great job of honing in on the scope and our “inputs”:; housing and police violence.
